@@ -1,0 +1,16 @@
+{
+  "name": "css-utility-lib",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000C\u0000S\u0000S\u0000-\u0000U\u0000t\u0000i\u0000l\u0000i\u0000t\u0000y\u0000-\u0000L\u0000i\u0000b\u0000-\u0000S\u0000C\u0000S\u0000S\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.72.0"
+  }
+}
