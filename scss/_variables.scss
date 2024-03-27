@@ -21,12 +21,6 @@ $colors: (
     'white': white,
 );
 
-// The @debug keyword logs something to the console. In the case below, it will log the return values of the functions.
-/* @debug map-get($colors, 'purple');
-@debug map-has-key($colors, 'secondary');
-@debug map-remove($colors, 'primary');
-@debug map-merge($colors, ('pink': #ffc0cb));  */
-
 // spacing
 $base-padding: 0.75rem;
 $base-margin: 0.75rem;
