@@ -21,9 +21,6 @@ $colors: (
     'white': white,
 );
 
-.test-btn {
-    background-color: map-get($colors, 'purple');
-}
 // The @debug keyword logs something to the console. In the case below, it will log the return values of the functions.
 /* @debug map-get($colors, 'purple');
 @debug map-has-key($colors, 'secondary');
